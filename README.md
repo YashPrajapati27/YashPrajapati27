@@ -17,7 +17,7 @@ style="max-width: 100%;">
 
 - 📫 Can connect with me on [linkedin.com/in/yashprajapati45](linkedin.com/in/yashprajapati45)
 
-- 💬 Ask me about **Machine Learning , Artificial Intelligence , Nueral Networks**
+- 💬 Ask me about **Machine Learning , Artificial Intelligence , Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
